@@ -75,3 +75,5 @@ def myfunc(request):
 
 def home_page(request):
 	return HttpResponse("Welcome to home page")
+def home_page(request):
+	return HttpResponse("Welcome to home page")
