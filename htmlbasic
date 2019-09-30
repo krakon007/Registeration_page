@@ -1,0 +1,6 @@
+<div class="form-group"><label class="control-label minotaur-label">Multiple</label><input type="file" class="filestyle ng-scope" filestyle="{
+            buttonText: 'Select files',
+            iconName: 'fa fa-inbox'
+          }" nv-file-select="" uploader="forms.uploader" multiple="" id="filestyle-1" tabindex="-1" style="position: absolute; clip: rect(0px, 0px, 0px, 0px);">
+    <div class="bootstrap-filestyle input-group"><input type="text" class="form-control " placeholder="" disabled=""> <span class="group-span-filestyle input-group-btn" tabindex="0"><label for="filestyle-1" class="btn btn-default "><span class="icon-span-filestyle glyphicon glyphicon-folder-open"></span> <span class="buttonText">Choose file</span></label></span></div>
+</div>
